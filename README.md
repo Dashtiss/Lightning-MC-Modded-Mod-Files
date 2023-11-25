@@ -2,7 +2,10 @@
 
 ## Introduction
 
-Welcome to the Lightning Mc Modpack, a thrilling Minecraft experience centered around Lightning Mc and other exciting mods. This modpack is designed for use with Minecraft Forge 1.16.5.
+Welcome to the Lightning-MC Modded Survival Modpack. This mod pack includes many mods.
+Lightning-Modpack supports Minecraft Forge [1.16.5](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)
+# Warning
+## This is a beta right now, if there are any bugs please note a [issue here](https://github.com/Dashtiss/Lightning-MC-Modded-Mod-Files/issues) or DM @dashtiss or @technocality to report a bug.
 
 ## Features
 
