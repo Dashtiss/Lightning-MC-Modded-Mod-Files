@@ -26,7 +26,7 @@ Download the [Recommended Here](https://maven.minecraftforge.net/net/minecraftfo
 
 ### Installing the Modpack
 
-1. **Download the Modpack ZIP**: [LightningMcModpack-1.0.zip](#)
+1. **Download the Modpack ZIP**: [LightningMcModpack.zip](https://github.com/Dashtiss/Lightning-MC-Modded-Mod-Files/releases/latest)
 
 2. **Install Forge Mod Loader**:
    - Run the Forge installer and select "Install Client."
